@@ -1,0 +1,14 @@
+{
+  "name": "project-06-modren-port-folio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chintana",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
